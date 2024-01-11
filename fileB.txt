@@ -1,1 +1,2 @@
 This is first line in dev1 fileB
+This is second line in dev1 fileB
